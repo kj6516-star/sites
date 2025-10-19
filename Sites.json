@@ -1,0 +1,122 @@
+[
+  {
+    "galContentId": "1000001",
+    "galContentTypeId": "17",
+    "galTitle": "경복궁 야경",
+    "galWebImageUrl": "https://image.kr.canon/pds/editor/images/000042/20170531153419432_PVBSANGF.jpg",
+    "galCreatedTime": "202310101200",
+    "galModifiedTime": "202310101230",
+    "galPhotographyMonth": "202309",
+    "galPhotographyLocation": "서울특별시 종로구",
+    "galPhotographer": "서울사진작가협회",
+    "galSearchKeyword": "경복궁, 서울, 야경, 궁궐, 관광지"
+  },
+  {
+    "galContentId": "1000002",
+    "galContentTypeId": "17",
+    "galTitle": "해운대 해수욕장",
+    "galWebImageUrl": "https://www.visitbusan.net/uploadImgs/files/cntnts/20191229153531987_oen",
+    "galCreatedTime": "202308151000",
+    "galModifiedTime": "202308151030",
+    "galPhotographyMonth": "202308",
+    "galPhotographyLocation": "부산광역시 해운대구",
+    "galPhotographer": "부산관광사진공모전",
+    "galSearchKeyword": "해운대, 부산, 바다, 해수욕장, 여름"
+  },
+  {
+    "galContentId": "1000003",
+    "galContentTypeId": "17",
+    "galTitle": "안동 하회마을",
+    "galWebImageUrl": "https://image.shutterstock.com/image-photo/hahoe-village-andong-korea-260nw-192837465.jpg",
+    "galCreatedTime": "202307011100",
+    "galModifiedTime": "202307011130",
+    "galPhotographyMonth": "202306",
+    "galPhotographyLocation": "경상북도 안동시",
+    "galPhotographer": "한국문화재청",
+    "galSearchKeyword": "하회마을, 안동, 전통마을, 한옥, 유네스코"
+  },
+  {
+    "galContentId": "1000004",
+    "galContentTypeId": "17",
+    "galTitle": "제주 성산일출봉",
+    "galWebImageUrl": "https://img3.yna.co.kr/photo/yna/YH/2022/11/29/PYH2022112907350000500_P4.jpg",
+    "galCreatedTime": "202305011000",
+    "galModifiedTime": "202305011030",
+    "galPhotographyMonth": "202304",
+    "galPhotographyLocation": "제주특별자치도 서귀포시",
+    "galPhotographer": "제주관광공사",
+    "galSearchKeyword": "성산일출봉, 제주, 일출, 자연경관, 세계자연유산"
+  },
+  {
+    "galContentId": "1000005",
+    "galContentTypeId": "17",
+    "galTitle": "남산타워",
+    "galWebImageUrl": "https://50plus.or.kr/upload/im/2020/07/69e4299c-7f5a-4643-ab02-37aa0643f80d.jpg",
+    "galCreatedTime": "202304101000",
+    "galModifiedTime": "202304101030",
+    "galPhotographyMonth": "202303",
+    "galPhotographyLocation": "서울특별시 용산구",
+    "galPhotographer": "서울관광재단",
+    "galSearchKeyword": "남산타워, 서울, 야경, 전망대, 데이트코스"
+  },
+  {
+    "galContentId": "1000006",
+    "galContentTypeId": "17",
+    "galTitle": "전주 한옥마을",
+    "galWebImageUrl": "https://access.visitkorea.or.kr/bfvk_img/call?cmd=VIEW&id=78e8c2f9-04f8-415e-84b4-ef1f692e6581&",
+    "galCreatedTime": "202303011000",
+    "galModifiedTime": "202303011030",
+    "galPhotographyMonth": "202302",
+    "galPhotographyLocation": "전라북도 전주시",
+    "galPhotographer": "전북문화관광재단",
+    "galSearchKeyword": "한옥마을, 전주, 전통문화, 골목, 체험"
+  },
+  {
+    "galContentId": "1000007",
+    "galContentTypeId": "17",
+    "galTitle": "속초 설악산",
+    "galWebImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpAxKXOcyNHXXdF5tTnrkXQoLArNNZB8FXbg&s",
+    "galCreatedTime": "202211011000",
+    "galModifiedTime": "202211011030",
+    "galPhotographyMonth": "202210",
+    "galPhotographyLocation": "강원도 속초시",
+    "galPhotographer": "강원관광공사",
+    "galSearchKeyword": "설악산, 속초, 단풍, 가을, 등산"
+  },
+  {
+    "galContentId": "1000008",
+    "galContentTypeId": "17",
+    "galTitle": "군산 근대역사박물관",
+    "galWebImageUrl": "https://www.jjn.co.kr/news/photo/202302/930224_210396_323.jpg",
+    "galCreatedTime": "202210011000",
+    "galModifiedTime": "202210011030",
+    "galPhotographyMonth": "202209",
+    "galPhotographyLocation": "전라북도 군산시",
+    "galPhotographer": "군산시청",
+    "galSearchKeyword": "군산, 근대역사, 박물관, 문화유산, 여행"
+  },
+  {
+    "galContentId": "1000009",
+    "galContentTypeId": "17",
+    "galTitle": "인천 송도 센트럴파크",
+    "galWebImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPGMcpPrOviiPjSH2ltfj2fJPgAlM0w5qpg&s",
+    "galCreatedTime": "202209011000",
+    "galModifiedTime": "202209011030",
+    "galPhotographyMonth": "202208",
+    "galPhotographyLocation": "인천광역시 연수구",
+    "galPhotographer": "인천관광공사",
+    "galSearchKeyword": "송도, 센트럴파크, 인천, 도시공원, 야경"
+  },
+  {
+    "galContentId": "1000010",
+    "galContentTypeId": "17",
+    "galTitle": "청계천 서울빛초롱축제",
+    "galWebImageUrl": "https://www.sisul.or.kr/open_content/cheonggye/images/visual_mb.jpg",
+    "galCreatedTime": "202201011000",
+    "galModifiedTime": "202201011030",
+    "galPhotographyMonth": "202112",
+    "galPhotographyLocation": "서울특별시 종로구",
+    "galPhotographer": "더스튜디오",
+    "galSearchKeyword": "청계천, 서울빛초롱축제, 서울, 야경, 겨울축제"
+  }
+]
